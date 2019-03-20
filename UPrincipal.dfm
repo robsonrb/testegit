@@ -20,4 +20,11 @@ object frmPrincipal: TfrmPrincipal
     Height = 41
     OnClick = SpeedButton1Click
   end
+  object Label1: TLabel
+    Left = 48
+    Top = 104
+    Width = 110
+    Height = 13
+    Caption = 'Altera'#231#227'o no Notebook'
+  end
 end
